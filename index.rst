@@ -46,7 +46,7 @@ The Majestic Homestay
 
 
 
-** Rasakan kenyamanan seperti di rumah sendiri di `The majestic Homestay <https://themajestichomestay.com/>`_..**
+** Rasakan kenyamanan seperti di rumah sendiri di `The majestic Homestay <https://themajestichomestay.com/>`_.. **
 Setiap sudut dirancang dengan sentuhan modern namun tetap menghadirkan suasana hangat yang membuat Anda betah. Privasi menjadi prioritas, sehingga Anda dapat menikmati waktu bersama keluarga tanpa gangguan, beristirahat tenang setelah lelah bepergian, atau fokus bekerja dengan suasana yang nyaman.
 
 Homestay ini cocok untuk berbagai kebutuhan:
