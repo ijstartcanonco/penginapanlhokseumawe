@@ -47,17 +47,15 @@ The Majestic Homestay
 
 
 **Rasakan kenyamanan seperti di rumah sendiri di `The majestic Homestay <https://themajestichomestay.com/>`_.. Lhokseumawe**
+
 Setiap sudut dirancang dengan sentuhan modern namun tetap menghadirkan suasana hangat yang membuat Anda betah. Privasi menjadi prioritas, sehingga Anda dapat menikmati waktu bersama keluarga tanpa gangguan, beristirahat tenang setelah lelah bepergian, atau fokus bekerja dengan suasana yang nyaman.
 
-Homestay ini cocok untuk berbagai kebutuhan:
+**Homestay ini cocok untuk berbagai kebutuhan:**
 
-Keluarga yang menginginkan ruang privat dan suasana seperti rumah.
-
-Traveler yang mencari tempat istirahat tenang dengan akses mudah ke pusat kota.
-
-Perjalanan bisnis yang membutuhkan akomodasi nyaman dengan fasilitas pendukung.
-
-Dengan kombinasi kenyamanan, fasilitas modern, dan lokasi strategis, The Majestic Homestay menjadi pilihan terbaik bagi siapa saja yang mengutamakan kualitas dalam perjalanan mereka.
+- Keluarga yang menginginkan ruang privat dan suasana seperti rumah.
+- Traveler yang mencari tempat istirahat tenang dengan akses mudah ke pusat kota.
+- Perjalanan bisnis yang membutuhkan akomodasi nyaman dengan fasilitas pendukung.
+- Dengan kombinasi kenyamanan, fasilitas modern, dan lokasi strategis, The Majestic Homestay menjadi pilihan terbaik bagi siapa saja yang mengutamakan kualitas dalam perjalanan mereka.
 
 **Highlight**
 
