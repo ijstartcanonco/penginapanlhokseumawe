@@ -39,16 +39,15 @@ Ringkasan Singkat
 The Majestic Homestay
 ---------------------
 
+**Rasakan kenyamanan seperti di rumah sendiri di `The Majestic Homestay <https://themajestichomestay.com>`_ Lhokseumawe**
+
+Setiap sudut dirancang dengan sentuhan modern namun tetap menghadirkan suasana hangat yang membuat Anda betah. Privasi menjadi prioritas, sehingga Anda dapat menikmati waktu bersama keluarga tanpa gangguan, beristirahat tenang setelah lelah bepergian, atau fokus bekerja dengan suasana yang nyaman.
+
 .. image:: majestic.png
    :alt: The Majestic Homestay Lhokseumawe
    :align: center
    :width: 720
 
-
-
-**Rasakan kenyamanan seperti di rumah sendiri di `The majestic Homestay <https://themajestichomestay.com/>`_.. Lhokseumawe**
-
-Setiap sudut dirancang dengan sentuhan modern namun tetap menghadirkan suasana hangat yang membuat Anda betah. Privasi menjadi prioritas, sehingga Anda dapat menikmati waktu bersama keluarga tanpa gangguan, beristirahat tenang setelah lelah bepergian, atau fokus bekerja dengan suasana yang nyaman.
 
 **Homestay ini cocok untuk berbagai kebutuhan:**
 
@@ -80,7 +79,6 @@ Setiap sudut dirancang dengan sentuhan modern namun tetap menghadirkan suasana h
 - Konfirmasi ketersediaan dapur/pantry dan tipe kasur.
 - Tanyakan opsi early/late check-in bila dibutuhkan.
 
-`ij.start.canon <https://ijstartcanon-ij.readthedocs.io/en/latest/index.html>`_.
 
 
 Hotel Grand Sydney
