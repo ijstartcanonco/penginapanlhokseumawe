@@ -1,6 +1,3 @@
-README.rst
-===========
-
 3 Penginapan Terbaik di Kota Lhokseumawe
 ========================================
 
@@ -39,7 +36,7 @@ Ringkasan Singkat
 The Majestic Homestay
 ---------------------
 
-**Rasakan kenyamanan seperti di rumah sendiri di `The Majestic Homestay <https://themajestichomestay.com>`_ Lhokseumawe**
+Rasakan kenyamanan seperti di rumah sendiri di `The Majestic Homestay <https://themajestichomestay.com>`_ Lhokseumawe
 
 Setiap sudut dirancang dengan sentuhan modern namun tetap menghadirkan suasana hangat yang membuat Anda betah. Privasi menjadi prioritas, sehingga Anda dapat menikmati waktu bersama keluarga tanpa gangguan, beristirahat tenang setelah lelah bepergian, atau fokus bekerja dengan suasana yang nyaman.
 
